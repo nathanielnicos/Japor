@@ -1,3 +1,8 @@
+> **Note:** This repository is a **fork** of the original project developed by the **TryCatch Team** for Bangkit Academy. 
+> The original repository can be found here: [github.com/rrdhoi/Japor](https://github.com/rrdhoi/Japor)
+
+---
+
 ## About The Project
 
 JAPOR (Jakarta Lapor) is a public service application that has a system that can compare similarities between the two images of the officer and the complainant to conclude whether they are really the same event.
